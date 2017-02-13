@@ -3,3 +3,4 @@ branches:
     - master
 script:
   echo $HOME
+  echo $ENV
