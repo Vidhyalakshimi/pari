@@ -1,2 +1,6 @@
+# safelist
+branches:
+  only:
+  - master
 script:
   echo $HOME
