@@ -3,4 +3,5 @@ branches:
   only:
   - master
 script:
-  echo $HOME
+  - echo $HOME
+  - echo home 
